@@ -49,13 +49,13 @@ h2{
     width: 100px;
 }
 #steps-goals{
-    background-color: rgb(41, 235, 35);
+    background-color: rgb(96, 204, 92);
 }
 #steps-to-goals{
-    background-color: rgb(196, 151, 202);
+    background-color: white;
 }
 #steps-goal-to{
-    background-color: rgba(227, 240, 44, 0.884);
+    background-color: rgba(205, 212, 96, 0.884);
 }
 .about-html{
     width: 50%;
@@ -87,4 +87,6 @@ footer{
     text-align: center;
     background-color: black;
     color: blanchedalmond;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
