@@ -1,6 +1,5 @@
 body{
     font-family: 'Lobster', cursive;
-
 }
 h1{
     font-size: 50px;
@@ -11,24 +10,24 @@ h2{
 .flexible-container{
     display: flex;
     margin: 0%;
+
 }
 .blue-color{
-    color: chocolate;
+    color: green;
 }
 .half-Width{
     width: 50%;
-    padding-left: 8%;
-    padding-right: 8%;
-    padding-top: 2%;
-
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 1%;   
 }
 .half-Width img{
-    width: 350px;
-    padding-left: 30%;
+    width: 450px;
+    padding-left: 10%;
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient( chocolate, chocolate);
+    background-image: linear-gradient( green, greenyellow);
     padding: 5px 10px;
     color: whitesmoke;
     font-weight: 700;
@@ -37,8 +36,7 @@ h2{
 .mission-steps{
     text-align: center;
     padding-right: 6%;
-    padding-left: 6%;
-    
+    padding-left: 6%;    
 }
 .mission-goals{
     width: 30%;
@@ -55,9 +53,38 @@ h2{
 }
 #steps-to-goals{
     background-color: rgb(196, 151, 202);
-
 }
 #steps-goal-to{
     background-color: rgba(227, 240, 44, 0.884);
+}
+.about-html{
+    width: 50%;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-bottom: 3%;
+    padding-top: 2%;
+}
+.about-html img{
+    width: 450px;
+    border-radius: 10px;   
+}
+.about-css img{
+    width: 500px;
+    border-radius: 10px;
+}
+.about-css{
+    width: 50%;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-bottom: 3%;
+    padding-top: 2%;
+}
+.header{
+    text-align: center;
+}
 
+footer{
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
 }
